@@ -27,8 +27,9 @@ export const projects = [
     title: "Black Jack",
     subtitle: "React Hooks",
     description:
-      "A simple game of Black Jack.",
-    image: "./project-4.gif",
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",  
+    //"A simple game of Black Jack.",
+    image: "./bJack.gif",
     link: "https://reactbootcamp.com",
   },
 ];
