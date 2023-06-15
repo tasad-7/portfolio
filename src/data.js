@@ -8,8 +8,8 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Headless Shopify Storefront",
+    subtitle: "React + Shopify",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
@@ -24,10 +24,10 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
+    title: "Black Jack",
     subtitle: "React Hooks",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "A simple game of Black Jack.",
     image: "./project-4.gif",
     link: "https://reactbootcamp.com",
   },
@@ -52,9 +52,9 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "TypeScript",
+  "React Native",
   "React",
-  "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Jest",
 ];
