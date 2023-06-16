@@ -12,8 +12,8 @@ export const projects = [
     subtitle: "React + Shopify",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./shop.gif",
+    link: "https://github.com/tasad-7/shopify-react",
   },
   {
     title: "DevChat",
@@ -30,7 +30,7 @@ export const projects = [
     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",  
     //"A simple game of Black Jack.",
     image: "./bJack.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/tasad-7/blackjack-takehome",
   },
 ];
 
